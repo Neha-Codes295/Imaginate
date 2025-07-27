@@ -34,7 +34,7 @@ To get started with the project, you can either clone or fork the repository:
    ```
 
 ### Forking the Repository
-1. Go to the [Imaginate GitHub repository](https://github.com/yourusername/Imaginate).
+1. Go to the Imaginate GitHub repository.
 2. Click on the "Fork" button in the top right corner to create a copy of the repository in your GitHub account.
 3. Clone your forked repository using the command:
    ```bash
@@ -90,6 +90,3 @@ To run the application in development mode, follow these steps:
 3. The backend will be running on the specified port (default is usually 5000).
 
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
