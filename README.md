@@ -1,6 +1,8 @@
 # Imaginate
 
-Imaginate is a web application built with React and Vite for the frontend and Node.js for the backend, designed to provide an interactive and engaging user experience. This project serves as a template for developing modern web applications using the latest technologies.
+Imaginate is a web application built with React and Vite for the frontend and Node.js for the backend, designed to provide an interactive and engaging user experience. This project serves as a template for developing modern web applications using the latest technologies.\
+
+Live Link : https://imaginate-three.vercel.app/
 
 ## Images
 Here are some images related to the project:
